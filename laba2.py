@@ -1,3 +1,5 @@
+
+# Метод Гаусса-Зейделя
 class Result:
     isMethodApplicable = True
     errorMessage = ""
